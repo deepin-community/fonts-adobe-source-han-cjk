@@ -1,9 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: template-repository
-Source: https://github.com/deepin-community/template-repository
+Upstream-Name: fonts-sans
+Source: https://www.deepin.org/
 
-Files: *
-Copyright: 2023 Tsic404 <liuheng@deepin.org>
+Files: debian/*
+Copyright: Deepin Packages Builder <packages@deepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

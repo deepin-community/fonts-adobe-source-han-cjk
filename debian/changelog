@@ -1,5 +1,35 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-adobe-source-han-cjk (1.0.4-0deepin1) unstable; urgency=medium
 
-  * Initial release
+  * update changelog.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- LiChengGang <lichenggang@uniontech.com>  Sun, 18 Aug 2024 14:00:42 +0800
+
+fonts-adobe-source-han-cjk (1.0.4-deepin1) unstable; urgency=medium
+
+  * Replace SourceHanSansHWSC with SourceHanSansSC.
+
+ -- Hao Ding <dinghao@uniontech.com>  Thu, 11 Apr 2024 14:18:21 +0800
+
+fonts-adobe-source-han-cjk (1.0.3-deepin1) unstable; urgency=medium
+
+  * fix install file name to fonts-adobe-source-han-cjk.install
+
+ -- Hao Ding <dinghao@uniontech.com>  Fri, 29 Mar 2024 11:23:50 +0800
+
+fonts-adobe-source-han-cjk (1.0.2-deepin1) unstable; urgency=medium
+
+  * fix package name to fonts-adobe-source-han-cjk.
+
+ -- Hao Ding <dinghao@uniontech.com>  Thu, 28 Mar 2024 10:53:57 +0800
+
+fonts-sans (1.0.1-deepin1) unstable; urgency=medium
+
+  * add SourceHanSerifSC OTF.
+
+ -- DingHao <dinghao@uniontech.com>  Wed, 13 Mar 2024 17:03:13 +0800
+
+fonts-sans (1.0.0-deepin1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- xinpeng.wang <wangxinpeng@uniontech.com>  Fri, 29 Dec 2023 13:15:01 +0800
